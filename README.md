@@ -4,8 +4,7 @@ An end-to-end Job Market Intelligence platform that collects job-market data, cl
 
 ## 🚀 Live Application
 
-🔗 https://jobmarketintelligence-3appgkxr8avjmjpmrnx4as.streamlit.app
-
+🔗 https://amritansh-job-market.streamlit.app
 ## 📌 Project Overview
 
 The Job Market Intelligence Platform is designed to help users explore job-market trends, analyze salaries, inspect job postings, and generate ML-based predictions.
